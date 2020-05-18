@@ -1,0 +1,32 @@
+//
+//  ChatON-Prefix.pch
+//  ChatON
+//
+//  Created by Saremcotech on 26/08/2017.
+//  Copyright © 2017 SabaAmber. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+#import <Quickblox/Quickblox.h>
+#import <QuickbloxWebRTC/QuickbloxWebRTC.h>
+
+#import "QBUpdateUserParameters+CustomData.h"
+#import "QBChatMessage+TextEncoding.h"
+
+#import "Definitions.h"
+#import "Protocols.h"
+#import "Macro.h"
+
+#import <QMServices.h>
+#endif

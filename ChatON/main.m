@@ -2,9 +2,9 @@
 //  main.m
 //  ChatON
 //
-//  Created by Saba Amber on 24/08/2017.
-//  Copyright © 2017 SabaAmber. All rights reserved.
-//
+//  Created by Saremcotech on 26/08/2017.
+//  Copyright (c) 2014 Quickblox. All rights reserved.
+
 
 #import <UIKit/UIKit.h>
 #import "AppDelegate.h"

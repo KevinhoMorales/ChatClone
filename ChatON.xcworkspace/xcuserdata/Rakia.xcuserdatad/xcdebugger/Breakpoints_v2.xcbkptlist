@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatON/Classes/ViewControllers/TabBarController/ChatControllers/QMChatVC/QMChatVC.m"
+            timestampString = "525520886.138431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1297"
+            endingLineNumber = "1297"
+            landmarkName = "-collectionView:willDisplayCell:forItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatON/Classes/ViewControllers/TabBarController/ChatControllers/QMChatVC/QMChatVC.m"
+            timestampString = "525520905.740089"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1299"
+            endingLineNumber = "1299"
+            landmarkName = "-collectionView:willDisplayCell:forItemAtIndexPath:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatON/Classes/Services/PlaceholderGenerator/PlaceholderGenerator.m"
+            timestampString = "525618158.479575"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "151"
+            endingLineNumber = "151"
+            landmarkName = "+groupPlaceholderWithUsers:size:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[PlaceholderGenerator groupPlaceholderWithUsers:size:]"
+                  moduleName = "ChatON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rakia/Desktop/ChatON/ChatON/Classes/Services/PlaceholderGenerator/PlaceholderGenerator.m"
+                  timestampString = "525620359.904809"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "+[PlaceholderGenerator groupPlaceholderWithUsers:size:]"
+                  moduleName = "ChatON"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Rakia/Desktop/ChatON/ChatON/Classes/Services/PlaceholderGenerator/PlaceholderGenerator.m"
+                  timestampString = "525620359.908288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "158">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
